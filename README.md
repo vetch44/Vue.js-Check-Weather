@@ -1,4 +1,7 @@
-# my-project
+# WeatherApp
+
+# USE YOUR OWN API KEY FROM   opeweathermap.org
+
 
 ## Project setup
 ```
